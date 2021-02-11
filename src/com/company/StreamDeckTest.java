@@ -1,7 +1,8 @@
-package com.company;
+package com.company; 
 
 import java.util.stream.Stream;
 
+// This is the main() file to execute program
 public class StreamDeckTest {
 
     public static void main(String[] args) {
